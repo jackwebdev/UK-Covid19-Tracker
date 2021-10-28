@@ -1,0 +1,29 @@
+$border-radius: 0.8rem;
+$background-colour: "background-colour";
+
+$bg-light: #fbfbfb;
+$bg-dark: #1a2845;
+$card-light: #fefefe;
+$card-dark:#233b72;
+$text-light: #232424; 
+$text-dark: #e6e6e6; 
+$default-margin: 0.4rem;
+$chart-light: #918c8c;
+$chart-dark: #6d83b6;
+
+// :root {
+//     --background-colour: #{$bg-light};
+// }
+
+.light {
+  --main-bg: #{$bg-light};
+  --primary-text: #{$text-light};
+  --card-bg: #{$card-light};
+  --chart: #{$chart-light};
+}
+.dark {
+  --main-bg: #{$bg-dark};
+  --primary-text: #{$text-dark};
+  --card-bg: #{$card-dark};
+  --chart: #{$chart-dark};
+}

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.86" height="64.802" viewBox="0 0 60.86 64.802">
+  <defs>
+    <filter id="Path_1" x="0" y="5.198" width="59.604" height="59.604" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1-2" x="0" y="5.198" width="59.604" height="59.604" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-color="#f5dc1e" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_1" x="18.86" y="0" width="41" height="40" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_1-2" x="18.86" y="0" width="41" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#f5dc1e" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_2" x="24.86" y="11" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_2-2" x="24.86" y="11" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#f5dc1e" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="moon" transform="translate(-17.64 -541.5)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 17.64, 541.5)" filter="url(#Path_1)">
+        <path id="Path_1-3" data-name="Path 1" d="M14.5,0c8.008,0-4.978,4.05-4.978,14.5S22.508,29,14.5,29a14.5,14.5,0,0,1,0-29Z" transform="translate(13.5 30.8) rotate(-45)" fill="#f8f2bf"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 17.64, 541.5)" filter="url(#Path_1-2)">
+        <path id="Path_1-4" data-name="Path 1" d="M14.5,0c8.008,0-4.978,4.05-4.978,14.5S22.508,29,14.5,29a14.5,14.5,0,0,1,0-29Z" transform="translate(13.5 30.8) rotate(-45)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 17.64, 541.5)" filter="url(#Polygon_1)">
+        <path id="Polygon_1-3" data-name="Polygon 1" d="M6.06,2.6a1,1,0,0,1,1.881,0l.577,1.595a1,1,0,0,0,.915.659l1.683.042a1,1,0,0,1,.574,1.8l-1.3.97a1,1,0,0,0-.358,1.092l.473,1.557a1,1,0,0,1-1.514,1.121l-1.437-.965a1,1,0,0,0-1.115,0l-1.437.965a1,1,0,0,1-1.514-1.121l.473-1.557a1,1,0,0,0-.358-1.092l-1.3-.97a1,1,0,0,1,.574-1.8l1.683-.042a1,1,0,0,0,.915-.659Z" transform="translate(32.36 13.5)" fill="#f8f2bf"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 17.64, 541.5)" filter="url(#Polygon_1-2)">
+        <path id="Polygon_1-4" data-name="Polygon 1" d="M6.06,2.6a1,1,0,0,1,1.881,0l.577,1.595a1,1,0,0,0,.915.659l1.683.042a1,1,0,0,1,.574,1.8l-1.3.97a1,1,0,0,0-.358,1.092l.473,1.557a1,1,0,0,1-1.514,1.121l-1.437-.965a1,1,0,0,0-1.115,0l-1.437.965a1,1,0,0,1-1.514-1.121l.473-1.557a1,1,0,0,0-.358-1.092l-1.3-.97a1,1,0,0,1,.574-1.8l1.683-.042a1,1,0,0,0,.915-.659Z" transform="translate(32.36 13.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 17.64, 541.5)" filter="url(#Polygon_2)">
+        <path id="Polygon_2-3" data-name="Polygon 2" d="M3.6,2.689a.954.954,0,0,1,1.808,0l.009.026a.954.954,0,0,0,.878.649l.118,0a.954.954,0,0,1,.573,1.7L6.811,5.2a.954.954,0,0,0-.319,1l.044.157A.954.954,0,0,1,5.059,7.392h0a.954.954,0,0,0-1.118,0h0A.954.954,0,0,1,2.464,6.36L2.509,6.2a.954.954,0,0,0-.319-1l-.171-.138a.954.954,0,0,1,.573-1.7l.118,0a.954.954,0,0,0,.878-.649Z" transform="translate(38.36 24.5)" fill="#f8f2bf"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 17.64, 541.5)" filter="url(#Polygon_2-2)">
+        <path id="Polygon_2-4" data-name="Polygon 2" d="M3.6,2.689a.954.954,0,0,1,1.808,0l.009.026a.954.954,0,0,0,.878.649l.118,0a.954.954,0,0,1,.573,1.7L6.811,5.2a.954.954,0,0,0-.319,1l.044.157A.954.954,0,0,1,5.059,7.392h0a.954.954,0,0,0-1.118,0h0A.954.954,0,0,1,2.464,6.36L2.509,6.2a.954.954,0,0,0-.319-1l-.171-.138a.954.954,0,0,1,.573-1.7l.118,0a.954.954,0,0,0,.878-.649Z" transform="translate(38.36 24.5)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+/* Small */
+@media (min-width: 576px) {
+}
+
+/* Medium  */
+@media (min-width: 768px) {
+    main {
+        padding: 1.5rem;
+      }
+    .row {
+        flex-direction: row;
+    }
+    .nations {
+        flex: 1;
+    }
+    .chart-box {
+        flex: 2;
+    }
+}
+
+/* Large */
+@media (min-width: 911px) {
+}
+
+/* Extra Large */
+@media (min-width: 1200px) {
+}

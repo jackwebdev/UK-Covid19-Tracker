@@ -1,0 +1,10 @@
+@mixin card {
+    box-shadow: 0rem 0rem 0.8rem rgba(29, 29, 29, 0.13);
+    margin: 0.8rem;
+    background-color: var(--card-bg);
+    border-radius: $border-radius;
+}
+@mixin card-hover {
+    box-shadow: 0rem 0.4rem 1rem rgba(29, 29, 29, 0.14);
+    transform: translatey(-1px);
+}
